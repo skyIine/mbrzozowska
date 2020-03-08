@@ -88,7 +88,7 @@ body{
 /* HERO */
 
 .hero {
-	background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/warsaw2.jpg");
+	background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../warsaw2.jpg");
 	background-repeat : no-repeat;
 	margin-top: 48px;
 	padding-top: 120px;
