@@ -84,4 +84,12 @@ ul li a {
     float: right;
 }
 
+.middle{
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 35px;
+	display: inline-block;
+	background-color: #FFFFFF;
+	margin-top: 0px;
+}
 
