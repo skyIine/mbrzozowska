@@ -87,7 +87,7 @@ body{
 /* HERO */
 
 .hero {
-	background-image: url("../warsaw2.jpg");
+	background-image: url('../images/warsaw2.jpg');
 	background-repeat : no-repeat;
 	margin-top: 48px;
 	padding-top: 120px;
