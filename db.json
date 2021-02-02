@@ -5,35 +5,35 @@
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
       "id": 1,
-      "date": $now()
+      "date": "2018-12-10T13:45:00.000Z"
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
       "id": 2,
-      "date": Date(timeIntervalSinceReferenceDate: 118800)
+      "date": "2018-12-10T13:45:00.000Z"
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
       "id": 3,
-      "date": Date(timeIntervalSinceReferenceDate: 118800)
+      "date": "2018-12-10T13:45:00.000Z"
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
       "id": 4,
-      "date": Date(timeIntervalSinceReferenceDate: 118800)
+      "date": "2018-12-10T13:45:00.000Z"
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
       "id": 5,
-      "date": Date(timeIntervalSinceReferenceDate: 118800)
+      "date": "2018-12-10T13:45:00.000Z"
     }
   ]
 }
