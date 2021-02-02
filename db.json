@@ -5,7 +5,7 @@
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
       "id": 1,
-      "date": Date(timeIntervalSinceReferenceDate: 118800)
+      "date": $now()
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
