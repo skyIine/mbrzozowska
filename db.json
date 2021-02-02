@@ -4,31 +4,36 @@
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
-      "id": 1
+      "id": 1,
+      "date": Date(timeIntervalSinceReferenceDate: 118800)
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
-      "id": 2
+      "id": 2,
+      "date": Date(timeIntervalSinceReferenceDate: 118800)
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
-      "id": 3
+      "id": 3,
+      "date": Date(timeIntervalSinceReferenceDate: 118800)
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
-      "id": 4
+      "id": 4,
+      "date": Date(timeIntervalSinceReferenceDate: 118800)
     },
     {
       "note1": "This perfectly thin cut just melts in your mouth.",
       "note2": "I had a really good day",
       "note3": "I went for a walk with my d",
-      "id": 5
+      "id": 5,
+      "date": Date(timeIntervalSinceReferenceDate: 118800)
     }
   ]
 }
